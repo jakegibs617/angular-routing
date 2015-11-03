@@ -1,6 +1,6 @@
 # angular-routing
 
-![app](http://i.imgur.com/C9hKuDC.png)
+![app](http://i.imgur.com/DAderga.png)
 
 
 to run file
