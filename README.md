@@ -1,7 +1,11 @@
 # angular-routing
 
+home page
 ![app](http://i.imgur.com/cF7HtvY.jpg)
 
+
+show page
+![show](http://i.imgur.com/yGPnQdY.png)
 
 to run file
 
